@@ -1,8 +1,7 @@
 Latihan-Harian-C++
 
-Nama: Aulia Ramdani Nur
-NPM: 140810240002
+Nama : Aulia Ramdani Nur
 
-Deskripsi
+NPM : 140810240002
 
-Repository ini berisi latihan harian pemrograman C++ sebagai dokumentasi pembelajaran.
+Deskripsi : Repository ini berisi latihan harian pemrograman C++ sebagai dokumentasi pembelajaran.
