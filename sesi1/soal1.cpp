@@ -1,3 +1,10 @@
+// Nama Program : sesi 1 - soal1
+// Nama         : Aulia Ramdani Nur
+// NPM          : 140810240002
+// Tanggal buat : 29 September 2025
+// Deskripsi    : Menghitung nilai rata-rata 3 buah angka
+
+
 #include <iostream>
 using namespace std;
 

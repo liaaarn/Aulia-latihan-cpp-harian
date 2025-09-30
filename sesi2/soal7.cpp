@@ -1,3 +1,9 @@
+// Nama Program : soal7
+// Nama         : Aulia Ramdani Nur
+// NPM          : 140810240002
+// Tanggal buat : 30 September 2025
+// Deskripsi    : Menghitung gaji pegawai 
+
 #include <iostream>
 using namespace std;
 

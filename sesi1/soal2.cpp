@@ -1,3 +1,9 @@
+// Nama Program : sesi 1 - soal2
+// Nama         : Aulia Ramdani Nur
+// NPM          : 140810240002
+// Tanggal buat : 29 September 2025
+// Deskripsi    : Menghitung tegangan
+
 #include <iostream>
 using namespace std;
 
