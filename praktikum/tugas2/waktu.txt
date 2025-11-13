@@ -1,0 +1,7 @@
+latihan1 : 3 menit
+latihan2 : 4 menit (masih bingung tanda minusnya, tapi di autogradenya sudah benar)
+Latihan3 : 8 menit
+soal1 : 6 menit
+soal2 : 7 menit
+soal3 : 7 menit
+freeForm : 20 menit (perdalam lagi)

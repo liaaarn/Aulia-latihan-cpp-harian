@@ -1,0 +1,7 @@
+latihan1 : 2 menit
+latihan2 : 1 menit
+latihan3 : 2 menit
+soal1 : 6 menit
+soal2 : 5 menit
+soal3 : 7 menit
+freeForm : 6 menit
