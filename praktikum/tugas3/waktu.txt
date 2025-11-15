@@ -4,4 +4,4 @@ latihan3 : 2 menit
 soal1 : 7 menit
 soal2 : 8 menit
 soal3 : 10 menit      
-freeForm :          
+freeForm : 10 menit      

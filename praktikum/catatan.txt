@@ -1,0 +1,13 @@
+tugas 1 --> Algoritm dan pemograman, pengenalan c++
+tugas 2 --> Operator dan Conditional Statement
+tugas 3 --> Increment dan Decrement serta Looping
+tugas 4 --> Function
+Quiz 1 
+tugas 5 --> Array and Sorting
+latihan uts
+uts 
+tugas 6 --> Record
+tugas 7 --> Pointer
+tugas 8 --> Operasi File (Tapi tidak ada tugas)
+Quiz 2
+uas (projek akhir)
